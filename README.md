@@ -15,7 +15,7 @@ This recommender app utilizes a dataset that contains about 1 million anonymous 
 - Content-based recommendation (top rated movies by genre)
 - Collaborative recommendation (item-based collaborative filtering)
 
-## Setup
+## Setup and Run
 
 Download/clone this repository, then open it in RStudio as a project.
 
@@ -30,6 +30,3 @@ if (length(tmp) > 0)
 ```
 
 Then open `ui.R` or `server.R` and click `Run App` from the top.
-
-***
-
