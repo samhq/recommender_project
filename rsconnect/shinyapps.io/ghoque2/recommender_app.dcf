@@ -1,0 +1,11 @@
+name: recommender_app
+title:
+username:
+account: ghoque2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5312992
+bundleId: 5362388
+url: https://ghoque2.shinyapps.io/recommender_app/
+when: 1639312237.15386
+lastSyncTime: 1639312237.15388
